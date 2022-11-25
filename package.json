@@ -1,0 +1,41 @@
+{
+  "name": "fallenangelhospitalmanagementbroforcpe34projectinsemester2021sendforteacherphond",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.8",
+    "@choc-ui/chakra-autocomplete": "^4.22.0",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "axios": "^0.26.1",
+    "chart.js": "^3.7.1",
+    "date-fns": "^2.28.0",
+    "email-validator": "^2.0.4",
+    "framer-motion": "^6",
+    "js-base64": "^3.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "next": "12.1.5",
+    "pg": "^8.7.3",
+    "phone-formatter": "^0.0.2",
+    "react": "18.0.0",
+    "react-chartjs-2": "^4.1.0",
+    "react-datetime": "^3.1.1",
+    "react-datetime-picker": "^3.5.0",
+    "react-dom": "18.0.0",
+    "uuid": "^8.3.2",
+    "vanta": "^0.5.21"
+  },
+  "devDependencies": {
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.5"
+  }
+}
